@@ -45,6 +45,9 @@ This indicates missing 32-bit compatibility libraries on your 64-bit system. To 
 
 ```
 sudo apt-get install libc6-i386
+sudo yum install glibc.i686
+# or for newer versions:
+sudo dnf install glibc.i686
 ```
 
 ## Challenge
