@@ -1,6 +1,10 @@
 # Prerequisites
 *.d
 
+# Source codes
+*.c
+*.solutions
+
 # Object files
 *.o
 *.ko
