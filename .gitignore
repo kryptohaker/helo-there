@@ -4,6 +4,9 @@
 # Source codes
 *.c
 *.solutions
+*.asm
+*.as
+*.nasm
 
 # Object files
 *.o
